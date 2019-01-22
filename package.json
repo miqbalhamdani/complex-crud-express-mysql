@@ -1,0 +1,22 @@
+{
+  "name": "complex-crud-express-mysql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/miqbalhamdani/complex-crud-express-mysql.git",
+  "author": "Iqbal Hamdani <iqbal.hamdani@misteraladin.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4",
+    "mysql2": "^1.6.4",
+    "sequelize": "^4.42.0",
+    "sequelize-cli": "^5.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
