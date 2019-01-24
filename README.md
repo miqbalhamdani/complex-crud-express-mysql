@@ -40,7 +40,7 @@ npm start
 
 ## Structure
 
-[alt text](https://raw.githubusercontent.com/miqbalhamdani/complex-crud-express-mysql/master/Screenshot%20from%202019-01-24%2013-26-55.png)
+![structure](https://raw.githubusercontent.com/miqbalhamdani/complex-crud-express-mysql/master/Screenshot%20from%202019-01-24%2013-26-55.png)
 
 <br>
 
